@@ -213,9 +213,9 @@ Workbench.
 ## Support
 
 For questions about the analysis pipeline, please open a GitHub Issue or
-contact the Ndhlovu Lab:
+contact Scott A Bowler (scb4005@med.cornell.edu):
 
-- GitHub: [NdhlovuLab](https://github.com/NdhlovuLab)
+- GitHub: [Sabowler](https://github.com/sabowler)
 - Institution: Division of Infectious Disease, Department of Medicine,
   Weill Cornell Medicine, New York, NY
 
