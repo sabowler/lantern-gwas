@@ -1,0 +1,1 @@
+# LANTERN Collaboratory GWAS Pipeline
