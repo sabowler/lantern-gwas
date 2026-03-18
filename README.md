@@ -8,7 +8,7 @@ Tier Dataset v8.
 
 Bowler SA, Hampilos NH, Ndhlovu LC, and on behalf of the LANTERN Collaboratory.
 *Divergent Genetic Architectures Underlying Primary and Secondary Lymphedema
-and Lipedema: A Genome-wide Association Study.* (Under consideration)
+and Lipedema: A Genome-wide Association Study.* (In preparation)
 
 ---
 
@@ -213,9 +213,9 @@ Workbench.
 ## Support
 
 For questions about the analysis pipeline, please open a GitHub Issue or
-contact Scott Bowler:
+contact the Ndhlovu Lab:
 
-- GitHub: [NdhlovuLab](https://github.com/sabowler)
+- GitHub: [NdhlovuLab](https://github.com/NdhlovuLab)
 - Institution: Division of Infectious Disease, Department of Medicine,
   Weill Cornell Medicine, New York, NY
 
